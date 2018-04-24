@@ -41,5 +41,6 @@ var paul = new Usuario("Paul", 23);
 console.log(paul.imprimirUsuario("hola"));
 var juan = new UsuarioDos("pepe", 43);
 console.log(juan);
-var carlos = { nombre: "Carlos", edad: 18 };
+var carlos = { nombre: "Carlos", edad: 18, esposa: new Usuario("Penelope", 23)
+};
 carlos.nombre;
