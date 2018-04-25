@@ -48,6 +48,6 @@ interface UsuarioTres {
 
 
 }
-let carlos:UsuarioTres={nombre:"Carlos",edad: 18,esposa: new Usuario("Penelope",23);
-};
-carlos.nombre;
+//let carlos:UsuarioTres={nombre:"Carlos",edad: 18,esposa: new Usuario("Penelope",23);
+
+//carlos.nombre;
